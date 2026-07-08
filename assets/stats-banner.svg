@@ -1,0 +1,24 @@
+<svg width="680" height="220" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="680" height="220" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="0" width="680" height="28" rx="8" fill="#161b22"/>
+  <rect x="0" y="14" width="680" height="14" fill="#161b22"/>
+  <circle cx="20" cy="14" r="5" fill="#ff5f56"/>
+  <circle cx="38" cy="14" r="5" fill="#ffbd2e"/>
+  <circle cx="56" cy="14" r="5" fill="#27c93f"/>
+  <text x="340" y="18" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">nihal@dev: ~/profile</text>
+
+  <text x="20" y="55" font-family="monospace" font-size="14" fill="#27c93f">$ <tspan fill="#e6edf3">whoami --stats</tspan></text>
+
+  <text x="20" y="82" font-family="monospace" font-size="13" fill="#58a6ff">[GSoC]</text>
+  <text x="110" y="82" font-family="monospace" font-size="13" fill="#e6edf3">2025, 2026 — MetaCall &amp; LIOS</text>
+
+  <text x="20" y="106" font-family="monospace" font-size="13" fill="#d29922">[PyPI]</text>
+  <text x="110" y="106" font-family="monospace" font-size="13" fill="#e6edf3">2 packages published</text>
+
+  <text x="20" y="130" font-family="monospace" font-size="13" fill="#f85149">[OSS]</text>
+  <text x="110" y="130" font-family="monospace" font-size="13" fill="#e6edf3">always shipping in the open</text>
+
+  <text x="20" y="152" font-family="monospace" font-size="14" fill="#27c93f">$ <tspan fill="#e6edf3">_</tspan>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+</svg>
